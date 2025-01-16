@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/dtsys/static/css/main.e6f624ef.css",
-    "main.js": "/dtsys/static/js/main.65f82091.js",
+    "main.js": "/dtsys/static/js/main.ccdf117c.js",
     "static/js/488.bd46c4ec.chunk.js": "/dtsys/static/js/488.bd46c4ec.chunk.js",
     "static/media/Hero.mp4": "/dtsys/static/media/Hero.8a1a87fc780fe8ebb69e.mp4",
-    "static/media/Body.jpg": "/dtsys/static/media/Body.2cc43b1ebbaa883ed3cb.jpg",
+    "static/media/Body.jpg": "/dtsys/static/media/Body.2d3e1434b88ad7f67c04.jpg",
     "static/media/Government.png": "/dtsys/static/media/Government.45e7279e434dd7b62e35.png",
     "static/media/Title.jpg": "/dtsys/static/media/Title.871c84fc852aaa834da0.jpg",
     "static/media/MalaysiaAirports.png": "/dtsys/static/media/MalaysiaAirports.f2f5e3bb9dc8480dc753.png",
@@ -13,11 +13,11 @@
     "static/media/SquareCloud.png": "/dtsys/static/media/SquareCloud.8d545178b5c05b9b490d.png",
     "index.html": "/dtsys/index.html",
     "main.e6f624ef.css.map": "/dtsys/static/css/main.e6f624ef.css.map",
-    "main.65f82091.js.map": "/dtsys/static/js/main.65f82091.js.map",
+    "main.ccdf117c.js.map": "/dtsys/static/js/main.ccdf117c.js.map",
     "488.bd46c4ec.chunk.js.map": "/dtsys/static/js/488.bd46c4ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6f624ef.css",
-    "static/js/main.65f82091.js"
+    "static/js/main.ccdf117c.js"
   ]
 }
